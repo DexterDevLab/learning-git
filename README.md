@@ -1,5 +1,5 @@
-# GIT guide by Julius
+# Welcome to GIT Guide
 
-- this is coming from 'dev-julius' branch
+- this is coming from 'dev-dex' branch
 
 ## What is git?
